@@ -171,6 +171,10 @@ ul a {
 
 /* ================ ФУТЕР ================ */
 
+.footer{
+    background-color: #2e2f42;
+}
+
 .text_footer{
     color: #434555;
     font-family: "Roboto";
@@ -179,5 +183,6 @@ ul a {
     line-height: 150%;
     letter-spacing: 0.32px;
 }
+
 
 /* ================ ФУТЕР ================ */
