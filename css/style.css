@@ -68,15 +68,30 @@ ul a {
 
 /* ================СЕКЦІЯ 1================ */
 
+.first_section{
+    background-color: #2E2F42;
+}
+
 .title{
+    color: #ffffff;
     font-family: "Roboto", sans-serif;
     font-size: 56px;
     line-height: 107.143%;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     font-weight: bold;
+    text-align: center;
 }
 .first_button{
+    color: #ffffff;
     background-color: #4D5AE5;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+}
+
+.first_button:hover,
+.first_button:focus{
+    background-color: #404BBF;
 }
 
 
